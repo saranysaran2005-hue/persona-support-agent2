@@ -1,2 +1,8 @@
-```text
 streamlit
+python-dotenv
+pandas
+numpy
+requests
+langchain
+langchain-community
+openai
